@@ -4,6 +4,6 @@ collection: teaching
 type: "Theory and Practial course for Master  students in Electrical Engineering"
 venue: "Indian Institute of Technology, Madras"
 location: "Chennai, India"
-date: 2010
+year: 2010
 ---
 Teaching assistant (tutor) for exercises and practical sessions.
