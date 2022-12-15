@@ -3,7 +3,7 @@ title: "HDR imaging in the presence of motion blur"
 collection: publications
 permalink: /publication/2014-book-chapter-HDR-imaging-in-the-presence-of-motion-blur
 date: 2014-05-08
-venue: 'Book Chapter:Motion Deblurring: Algorithms and Systems,Cambridge University Press'
+venue: 'Motion Deblurring: Algorithms and Systems, Cambridge University Press (Book Chapter)'
 authors: 'Vijay Channarayapatna Shivaram,  <b>Paramanand Chandramouli</b>, Ambasamudram N Rajagopalan' 
 categories: [Image-Restoration]
 bibtex: true
