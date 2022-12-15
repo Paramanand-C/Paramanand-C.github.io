@@ -1,5 +1,6 @@
 ---
 title: "Robustness"
+excerpt: "<img width='50%' src='/images/previews/adv_deblur.png'>"
 collection: portfolio
 --- 
 
