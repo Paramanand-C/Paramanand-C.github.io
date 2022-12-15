@@ -1,5 +1,5 @@
 ---
-title: "Communincation Engineering Lab"
+title: "Communication Engineering Lab"
 collection: teaching
 type: "Practial course for Master  students in Electrical Engineering"
 venue: "Indian Institute of Technology, Madras"
