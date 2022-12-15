@@ -1,0 +1,18 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h2>Available Student Projects</h2>
+
+<a href="https://Paramanand-C.github.io/open_projects/">List of available topics</a>
+
+<h2>University Courses</h2>
+
+{% for post in site.teaching reversed %}
+  {% include archive-single-teaching.html %}
+{% endfor %}
