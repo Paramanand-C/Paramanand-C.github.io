@@ -4,6 +4,6 @@ collection: teaching
 type: "Practial course for Master  students in Electrical Engineering"
 venue: "Indian Institute of Technology, Madras"
 location: "Chennai, India"
-year: 2011
+date: 2011-07-18
 ---
 Teaching assistant for practical laboratory sessions.
