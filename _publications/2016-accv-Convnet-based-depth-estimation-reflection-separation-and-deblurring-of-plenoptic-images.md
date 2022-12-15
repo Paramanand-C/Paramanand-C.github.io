@@ -8,7 +8,7 @@ paperurl: 'http://Paramanand-C.github.io/files/pdfs/accv_lf_reflect.pdf'
 authors: '<b>Paramanand Chandramouli</b>, Mehdi Noroozi, Paolo Favaro'
 teaser: /previews/accv_lf_reflect.png
 arxiv: 'https://arxiv.org/abs/1708.06779'
-categories: [Lightfields],[Image-Restoration]
+categories: [Lightfields, Image-Restoration]
 bibtex: true
 ---
 
