@@ -7,7 +7,7 @@ venue: 'IEEE Transactions on Image Processing'
 paperurl: 'http://Paramanand-C.github.io/files/pdfs/Plenoptic_Image_Motion_Deblurring.pdf'
 authors: '<b>Paramanand Chandramouli</b>, Meiguang Jin, Daniele Perrone, Paolo Favaro'
 teaser: /previews/plenoptic_deblur.png
-categories: [Lightfields],[Image-Restoration]
+categories: [Lightfields,Image-Restoration]
 bibtex: true
 ---
 
