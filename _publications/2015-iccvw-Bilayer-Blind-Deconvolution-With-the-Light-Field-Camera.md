@@ -6,14 +6,14 @@ date: 2015-12-07
 venue: ' IEEE International Conference on Computer Vision Workshops'
 paperurl: 'http://Paramanand-C.github.io/files/pdfs/iccvw_lf_blind_deconv.pdf'
 authors: 'Meiguang Jin, <b>Paramanand Chandramouli</b>, Paolo Favaro'
-teaser: /previews/iccvw_lf_blind_deconv.png
+#teaser: /previews/iccvw_lf_blind_deconv.png
 categories: [Lightfields, Image-Restoration]
 bibtex: true
 ---
 
 {{ page.authors }}
 
-<img class="pub_teaser" src="../images/previews/iccvw_lf_blind_deconv.png" alt="Teaser Image" title="teaser" />
+#<img class="pub_teaser" src="../images/previews/iccvw_lf_blind_deconv.png" alt="Teaser Image" title="teaser" />
 
 ## Abstract
 
