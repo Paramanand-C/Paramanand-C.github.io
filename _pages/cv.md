@@ -28,7 +28,7 @@ Academic Experience
 * 2013-2017:  **Postdoctoral Researcher**
   * Computer Vision Group, University of Bern
   * Supervisor: Prof. Dr. Paolo Favaro
-* 2007-2013:**PhD Candidate**
+* 2007-2013: **PhD Candidate**
   * Image Processing and Computer Vision Lab, Indian institute of Technology, Madras
   * Supervisor: Prof. Dr. A N Rajagopalan
 * 2005-2007: **Student Researcher**
