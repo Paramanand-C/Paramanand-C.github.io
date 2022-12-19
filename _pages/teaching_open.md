@@ -24,7 +24,7 @@ I will then send you a small task related to deep learning, which you need to so
 
 
 ## Available Projects
-Currently available rojects in deep learning for light fields are listed below.
+Currently available projects in deep learning for light fields are listed below.
 Additionally, I offer research projects in general computer vision and deep learning. 
 Contact me for more information.
 
