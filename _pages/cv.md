@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A condensed pdf version of my CV can be found [here (updated Dec 22)](https://Paramanand-C.github.io/files/param_CV_website.pdf).
+A pdf version of my CV can be found [here (updated Dec 22)](https://Paramanand-C.github.io/files/param_CV_website.pdf).
 
 Education
 ======
