@@ -1,5 +1,5 @@
 ---
-title: "Light field recovery"
+title: "Light Field Recovery"
 excerpt: "<img width='50%' src='/images/previews/lf_implicit.png'>"
 collection: portfolio
 ---
