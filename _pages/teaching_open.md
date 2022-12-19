@@ -31,7 +31,7 @@ Contact me for more information.
 ### Light Field Editing
 *Suitable for:* Master thesis
 
-*Most related paper:* [A Learned Compact and Editable Light Field Representation] (https://arxiv.org/abs/2103.11314)
+*Most related paper:* [A Learned Compact and Editable Light Field Representation](https://arxiv.org/abs/2103.11314)
 
 *Requirements:* Pytorch/Tensorflow
 
