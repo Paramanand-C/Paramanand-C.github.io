@@ -33,5 +33,5 @@ Contact me for more information.
 
 *Most related paper:* [A Learned Compact and Editable Light Field Representation] (https://arxiv.org/abs/2103.11314)
 
-*Requirements:* Pytorch
+*Requirements:* Pytorch/Tensorflow
 
