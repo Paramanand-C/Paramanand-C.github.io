@@ -2,7 +2,7 @@
 title: "New work on Robustness of CT Recovery"
 collection: publications
 permalink: /publication/2023_CT_recovery
-date: 2022-10-16
+date: 2023-01-15
 venue: 'Preprint'
 paperurl: 'http://Paramanand-C.github.io/files/pdfs/Robustness_Low_dose_CT.pdf'
 authors: 'Kanchana Vaishnavi Gandikota, <b>Paramanand Chandramouli</b>, Hannah Droege, Michael Moeller'
