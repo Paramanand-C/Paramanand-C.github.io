@@ -6,7 +6,7 @@ date: 2023-04-07
 venue: 'Medical Imaging with Deep Learning (MIDL)'
 paperurl: 'http://Paramanand-C.github.io/files/pdfs/midl_23.pdf'
 authors: 'Kanchana Vaishnavi Gandikota, <b>Paramanand Chandramouli</b>, Hannah Droege, Michael Moeller '
-teaser: /previews/166_Gandikota.png.png
+teaser: /previews/166_Gandikota.png
 categories: [Robustness]
 bibtex: true
 ---
