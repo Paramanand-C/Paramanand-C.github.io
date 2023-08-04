@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2012-eccvw-HDR-imaging-under-non-uniform-blurring
 date: 2012-10-08
 venue: 'European Conference on Computer Vision Workshops'
-paperurl: 'http://Paramanand-C.github.io/files/pdfs/eccvw_hdr_non_uniform_deblur.pdf'
 authors: 'Vijay Channarayapatna Shivaram, <b>Paramanand Chandramouli</b>, Ambasamudram Narayanan Rajagopalan'
 categories: [Image-Restoration]
 bibtex: true
