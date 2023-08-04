@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2012-tip-Depth-from-motion-and-optical-blur-with-an-unscented-Kalman-filter
 date: 2012-05-01
 venue: 'IEEE Transactions on Image Processing'
-paperurl: 'http://Paramanand-C.github.io/files/pdfs/Depth_From_Motion_and_Optical_Blur_With_an_Unscented_Kalman_Filter.pdf'
 authors: '<b>Paramanand Chandramouli</b>, Ambasamudram Narayanan Rajagopalan'
 categories: [scene-inference]
 bibtex: true
