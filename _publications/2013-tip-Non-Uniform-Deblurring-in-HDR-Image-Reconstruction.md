@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2013-tip-Non-Uniform-Deblurring-in-HDR-Image-Reconstruction
 date: 2013-10-01
 venue: 'IEEE Transactions on Image Processing'
-paperurl: 'http://Paramanand-C.github.io/files/pdfs/tip_hdr_deblur.pdf'
 authors: 'Vijay Channarayapatna Shivaram, <b>Paramanand Chandramouli</b>, Ambasamudram Narayanan Rajagopalan, Rama Chellappa'
 categories: [Image-Restoration]
 bibtex: true
