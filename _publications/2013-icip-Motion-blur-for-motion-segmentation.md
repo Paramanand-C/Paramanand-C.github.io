@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2013-icip-Motion-blur-for-motion-segmentation
 date: 2013-09-15
 venue: 'IEEE International Conference on Image Processing'
-paperurl: 'http://Paramanand-C.github.io/files/pdfs/Motion_blur_for_motion_segmentation.pdf'
 authors: '<b>Paramanand Chandramouli</b>, Ambasamudram Narayanan Rajagopalan'
 categories: [Image-Restoration, scene-inference]
 bibtex: true
