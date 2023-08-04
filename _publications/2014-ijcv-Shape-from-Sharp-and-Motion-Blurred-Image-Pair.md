@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2014-ijcv-Shape-from-Sharp-and-Motion-Blurred-Image-Pair
 date: 2013-12-13
 venue: 'International Journal of Computer Vision'
-paperurl: 'http://Paramanand-C.github.io/files/pdfs/ijcv_blur.pdf'
 authors: '<b>Paramanand Chandramouli</b>, Ambasamudram N Rajagopalan' 
 categories: [scene-inference]
 bibtex: true
