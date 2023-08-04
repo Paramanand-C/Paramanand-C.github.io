@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2016-accv-Convnet-based-depth-estimation-reflection-separation-and-deblurring-of-plenoptic-images
 date: 2016-11-20
 venue: 'Asian Conference on Computer Vision'
-paperurl: 'http://Paramanand-C.github.io/files/pdfs/accv_lf_reflect.pdf'
 authors: '<b>Paramanand Chandramouli</b>, Mehdi Noroozi, Paolo Favaro'
 teaser: /previews/accv_lf_reflect.png
 arxiv: 'https://arxiv.org/abs/1708.06779'
