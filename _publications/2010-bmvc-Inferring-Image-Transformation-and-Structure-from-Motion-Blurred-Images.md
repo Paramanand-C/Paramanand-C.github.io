@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2010-bmvc-Inferring-Image-Transformation-and-Structure-from-Motion-Blurred-Images
 date: 2010-08-30
 venue: 'British Machine Vision Conference'
-paperurl: 'http://Paramanand-C.github.io/files/pdfs/bmvc_structure_from_blur.pdf'
 authors: '<b>Paramanand Chandramouli</b>, Ambasamudram Narayanan Rajagopalan'
 categories: [scene-inference]
 bibtex: true
