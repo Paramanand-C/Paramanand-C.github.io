@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2010-josa-Image-matching-with-higher-order-geometric-features
 date: 2010-04-01
 venue: 'Optical Society of America'
-paperurl: 'http://Paramanand-C.github.io/files/pdfs/josaa_geometric_matching.pdf'
 authors: <b>Paramanand Chandramouli</b>, Ambasamudram N Rajagopalan'
 categories: [correspondence, dataset]
 bibtex: true
