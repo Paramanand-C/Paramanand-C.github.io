@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2017-gcpr-Motion-deblurring-in-the-wild
 date: 2017-08-15
 venue: 'German Conference on Pattern Recognition'
-paperurl: 'http://Paramanand-C.github.io/files/pdfs/gcpr_deblurring.pdf'
 authors: 'Mehdi Noroozi, <b>Paramanand Chandramouli</b>, Paolo Favaro'
 teaser: /previews/gcpr_wild_deblur.png
 arxiv: 'https://arxiv.org/abs/1701.01486'
