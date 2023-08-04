@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2010-cvprw-Unscented-transformation-for-depth-from-motion-blur-in-videos
 date: 2010-06-13
 venue: 'IEEE Conference on Computer Vision and Pattern Recognition-Workshops'
-paperurl: 'http://Paramanand-C.github.io/files/pdfs/cvprw_unscentend_blur.pdf'
 authors: '<b>Paramanand Chandramouli</b>, Ambasamudram Narayanan Rajagopalan'
 categories: [scene-inference]
 bibtex: true
