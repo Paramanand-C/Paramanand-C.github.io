@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2008-icpr-Efficient-geometric-matching-with-higher-order-features
 date: 2008-12-08
 venue: '19th International Conference on Pattern Recognition'
-paperurl: 'http://Paramanand-C.github.io/files/pdfs/Efficient_geometric_matching_with_higher-order_features.pdf'
 authors: '<b>Paramanand Chandramouli</b>, Ambasamudram N Rajagopalan'
 categories: [geometric-matching]
 bibtex: true
