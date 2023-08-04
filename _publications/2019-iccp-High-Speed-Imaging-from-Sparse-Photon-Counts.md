@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2019-iccp-High-Speed-Imaging-from-Sparse-Photon-Counts
 date: 2019-05-15
 venue: 'IEEE International Conference on Computational Photography (ICCP)'
-paperurl: 'http://Paramanand-C.github.io/files/pdfs/SPAD.pdf'
 authors: '<b>Paramanand Chandramouli</b>, Samuel Burri, Claudio Bruschini, Edoardo Charbon, Andreas Kolb'
 teaser: /previews/spad_iccp.png
 arxiv: 'https://arxiv.org/abs/1811.02396'
